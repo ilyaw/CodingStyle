@@ -1,3 +1,5 @@
-# CodingStyle
+# Библиотека
+PropertyWrapper для преобразования в конкретный стиль написания составных слов
 
-A description of this package.
+# Поддерживает 
+Camel Case, Snake Case, Kebab Case
